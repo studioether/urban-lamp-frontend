@@ -8,7 +8,7 @@ Remeber to change your local clone to the main branch and pull the latest update
 
 
 ## branching convention
-When creating a new branch, please follow this convention <your-initials>/<sprint-name>/<title-of-your-user-story> 
+When creating a new branch, please follow this convention `<your-initials>/<sprint-name>/<title-of-your-user-story>` 
 For Instance: oh/orion/implement-bookmarking-feature
 
 # React + TypeScript + Vite
