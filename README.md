@@ -4,12 +4,16 @@ After adding your changes, push your branch as an upstream with:
 `git push --set-upstream origin <your branch name>`
 then create a new pull request to be reviewed and approved by the parent account.
 
-Remeber to change your local clone to the main branch and pull the latest update of the base branch so you have the latest code before you make new changes.
+Remeber to change your local clone to the staging branch and pull the latest update of the staging branch so you have the latest code before you make new changes.
 
 
 ## branching convention
 When creating a new branch, please follow this convention `<your-initials>/<sprint-name>/<title-of-your-user-story>` 
 For Instance: oh/orion/implement-bookmarking-feature
+
+## When You want to make a pull request!!!
+Please make a pull request to the staging area(staging branch) where the code can be tested before and approved before being merged to the production branch (main branch)
+
 
 # React + TypeScript + Vite
 
